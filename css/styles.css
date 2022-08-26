@@ -11508,3 +11508,10 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.skill-tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
